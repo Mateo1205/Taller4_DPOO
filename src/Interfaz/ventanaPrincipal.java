@@ -97,6 +97,4 @@ public class ventanaPrincipal extends JFrame{
 		ventana.setVisible(true);
 	}
 
-
-	
 }
